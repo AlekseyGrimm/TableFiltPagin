@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TableFiltPagin/static/js/main.b42f1ac0.chunk.js",
+    "main.js.map": "/TableFiltPagin/static/js/main.b42f1ac0.chunk.js.map",
+    "runtime-main.js": "/TableFiltPagin/static/js/runtime-main.703b9eb0.js",
+    "runtime-main.js.map": "/TableFiltPagin/static/js/runtime-main.703b9eb0.js.map",
+    "static/js/2.b0f2d8f3.chunk.js": "/TableFiltPagin/static/js/2.b0f2d8f3.chunk.js",
+    "static/js/2.b0f2d8f3.chunk.js.map": "/TableFiltPagin/static/js/2.b0f2d8f3.chunk.js.map",
+    "index.html": "/TableFiltPagin/index.html",
+    "static/js/2.b0f2d8f3.chunk.js.LICENSE.txt": "/TableFiltPagin/static/js/2.b0f2d8f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.703b9eb0.js",
+    "static/js/2.b0f2d8f3.chunk.js",
+    "static/js/main.b42f1ac0.chunk.js"
+  ]
+}
